@@ -1,5 +1,12 @@
+import Button from "react-bootstrap/Button";
+
 const Home = () => {
-  return <div>Homeffffx</div>;
+  return (
+    <>
+    
+      <div>Home redouane</div>
+    </>
+  );
 };
 
 export default Home;
